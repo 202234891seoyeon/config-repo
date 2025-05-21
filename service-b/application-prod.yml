@@ -1,0 +1,6 @@
+service:
+  name: "202234891 ParkSeoyeon - SW"
+
+logging:
+  level:
+    root: WARN
