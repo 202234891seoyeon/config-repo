@@ -1,6 +1,6 @@
 # config-repo/service-a/application-prod.yml
 service:
-  name: 202234891 ParkSeoyeon - Production
+  name: "202234891 ParkSeoyeon - SW"
 
 logging:
   level:
