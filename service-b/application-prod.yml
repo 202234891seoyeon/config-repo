@@ -1,3 +1,7 @@
 # config-repo/service-a/application-prod.yml
 service:
- name: test service for Production A
+  name: 202234891 ParkSeoyeon - Production
+
+logging:
+  level:
+    root: WARN
